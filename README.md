@@ -1,6 +1,9 @@
 # big_ideas_lab
-thurl
-Justin and Jacob
-This program asks fo the user's name and birth month then prints both out
+written by Justin, Jacob, and Shash
 
-i added something 
+This program asks for the user's name and birth month then prints both out
+
+# Install: copy the Program.ipynb file and transfer it to a Python Jupyter Notebook
+
+To contribute to this project prompt the user to enter their birthdate, print out their atsronomy sign
+To contribut make sure to read our code of conduct and be kind
